@@ -3,10 +3,10 @@ const CONFIG = {
 
   // COLOQUE AQUI A FOTO PNG DA DRA. (pode ser PNG, JPG, JPEG ou WEBP)
   // Exemplo: fotoBloco1: "dra.png"
-  fotoBloco1: "dra.png",
+  fotoBloco1: "assets/dra.png",
 
   // FOTO DA SEÇÃO SOBRE
-  fotoSobre: "foto-sobre.jpg",
+  fotoSobre: "assets/foto-sobre.jpg",
 
   whatsapp: "5511999999999",
   mensagemWhatsapp: "Olá! Gostaria de agendar uma consulta.",
